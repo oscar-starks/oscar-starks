@@ -13,7 +13,7 @@ I'm a backend developer, mainly using Django and its restframework for building 
 * 🤝  I'm also open to collaborating on embedded systems and hardware projects
 
 <a href="https://www.github.com/oscar-starks" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/oscar_starks?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.twitter.com/oscar_stark__" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/oscar-starks?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.twitter.com/oscar_stark__" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/oscar_stark__?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
 /></a>
 
