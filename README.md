@@ -10,6 +10,7 @@ I'm a backend developer, mainly using Django and its restframework for building 
 * ✉️  You can contact me at [oscarblessed04@gmail.com](mailto:oscarblessed04@gmail.com)
 * 🧠  I'm learning Multithreading and Multiprocessing
 * 🤝  I'm open to collaborating on anything that can work on the web
+* 🤝  I'm also open to collaborating on embedded systems and hardware projects
 
 <a href="https://www.github.com/Oscar-emb" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Oscar-emb?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.twitter.com/oscar_stark__" target="_blank" rel="noreferrer"><img
