@@ -12,8 +12,8 @@ I'm a backend developer, mainly using Django and its restframework for building 
 * 🤝  I'm open to collaborating on anything that can work on the web
 * 🤝  I'm also open to collaborating on embedded systems and hardware projects
 
-<a href="https://www.github.com/Oscar-emb" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Oscar-emb?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.twitter.com/oscar_stark__" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/oscar-starks" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/oscar_starks?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.twitter.com/oscar_stark__" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/oscar_stark__?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
 /></a>
 
@@ -30,15 +30,15 @@ src="https://img.shields.io/twitter/follow/oscar_stark__?logo=twitter&style=for-
 
 
 
-<p align="left"> <a href="https://www.github.com/Oscar-emb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/blessed-sam-b97706217/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/oscar_stark__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/oscar-starks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/blessed-sam-b97706217/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/oscar_stark__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Oscar-emb"><img src="https://github-readme-stats.vercel.app/api?username=Oscar-emb&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Oscar-emb's GitHub stats" /></a>
+<a href="http://www.github.com/oscar-starks"><img src="https://github-readme-stats.vercel.app/api?username=oscar-starks&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="oscar-starks's GitHub stats" /></a>
 
-<a href="http://www.github.com/Oscar-emb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Oscar-emb&stroke=ec4899&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ec4899&currStreakLabel=0891b2&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
+<a href="http://www.github.com/oscar-starks"><img src="https://github-readme-streak-stats.herokuapp.com/?user=oscar-starks&stroke=ec4899&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ec4899&currStreakLabel=0891b2&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
 
-<a href="http://www.github.com/Oscar-emb"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Oscar-emb&bg_color=000000&color=ec4899&line=0891b2&point=ec4899&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/oscar-starks"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=oscar-starks&bg_color=000000&color=ec4899&line=0891b2&point=ec4899&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Oscar-emb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oscar-emb&langs_count=10&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/oscar-starks" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscar-starks&langs_count=10&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
