@@ -8,7 +8,7 @@ I'm a backend developer, mainly using Django and its restframework for building 
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [oscarblessed04@gmail.com](mailto:oscarblessed04@gmail.com)
-* 🧠  I'm learning Web Sockets and Channels
+* 🧠  I'm learning Redis
 * 🤝  I'm open to collaborating on anything that can work on the web
 * 🤝  I'm also open to collaborating on embedded systems and hardware projects
 
