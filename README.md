@@ -12,6 +12,7 @@ I'm a backend developer, mainly using Django and its restframework for building 
 *   🧠  I'm learning Redis
 *   🤝  I'm open to collaborating on Django projects and hardware projects
 *   ⚡  I love C++ and I have some firsthand practical knowledge about it and I'd love to recieve some mentorship on it on how it's used for optimisation of web apps!
+*   
 <a href="https://www.github.com/oscar-starks" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/oscar-starks?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/oscar_stark__" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/oscar_stark__?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
