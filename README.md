@@ -1,16 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oscar Blessed
 =====================================================================================================================================
 
-Backend Developer
------------------
+Backend Developer and Embedded Systems Developer
+------------------------------------------------
 
-I'm a backend developer, mainly using Django and its restframework for building web APIs
+I'm a backend developer, mainly using Django and its restframework for building web APIs. I also use Arduino for embedded sytems and hardware projects
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [oscarblessed04@gmail.com](mailto:oscarblessed04@gmail.com)
 * 🧠  I'm learning Redis
 * 🤝  I'm open to collaborating on anything that can work on the web
 * 🤝  I'm also open to collaborating on embedded systems and hardware projects
+*⚡  I love C++ and I have some firsthand practical knowledge about it and I'd love to recieve some mentorship on it on how it's used for optimisation of web apps!
 
 <a href="https://www.github.com/oscar-starks" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/oscar-starks?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.twitter.com/oscar_stark__" target="_blank" rel="noreferrer"><img
