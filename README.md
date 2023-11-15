@@ -4,15 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer and Embedded Systems Developer
 ------------------------------------------------
 
-I'm a backend developer, mainly using Django and its restframework for building web APIs. I also use Arduino for embedded sytems and hardware projects
+I'm a backend developer, using Django restframework and Express JS for building web APIs. I also use Arduino for embedded systems and hardware projects
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [oscarblessed04@gmail.com](mailto:oscarblessed04@gmail.com)
-* 🧠  I'm learning NodeJS
-* 🤝  I'm open to collaborating on anything that can work on the web
-* 🚀  I'm currently working on [Megaboss](http://Megaboss.site )
+* 🤝  I'm open to collaborating on anything that works on the web
 * 🤝  I'm also open to collaborating on embedded systems and hardware projects
-* ⚡  I love C++ and I have some firsthand practical knowledge about it and I'd love to recieve some mentorship on it on how it's used for optimisation of web apps!
+* ⚡  I love C++ and I have some firsthand practical knowledge about it. I'd love to receive some mentorship on how it's used for the optimization of web apps!
 
 <a href="https://www.github.com/oscar-starks" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/oscar-starks?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.twitter.com/oscar_stark__" target="_blank" rel="noreferrer"><img
