@@ -10,7 +10,7 @@ I'm a backend developer, using Django restframework and Express JS for building 
 * ✉️  You can contact me at [oscarblessed04@gmail.com](mailto:oscarblessed04@gmail.com)
 * 🤝  I'm open to collaborating on anything that works on the web
 * 🤝  I'm also open to collaborating on embedded systems and hardware projects
-* ⚡  I love C++ and I have some firsthand practical knowledge about it. I'd love to receive some mentorship on how it's used for the optimization of web apps!
+* ⚡  I love C++ and I have some firsthand practical knowledge about it. I'd like to practicalize its use for the optimization of web apps!
 
 <a href="https://www.github.com/oscar-starks" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/oscar-starks?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.twitter.com/oscar_stark__" target="_blank" rel="noreferrer"><img
