@@ -14,7 +14,7 @@ I'm a backend developer, using Django restframework and Express JS for building 
 
 <a href="https://www.github.com/oscar-starks" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/oscar-starks?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.twitter.com/oscar_stark__" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/oscar_stark__?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
+src="https://img.shields.io/twitter/follow/theTechPriest_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
 /></a>
 
 
@@ -30,7 +30,7 @@ src="https://img.shields.io/twitter/follow/oscar_stark__?logo=twitter&style=for-
 
 
 
-<p align="left"> <a href="https://www.github.com/oscar-starks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/blessed-sam-b97706217/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/oscar_stark__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/oscar-starks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/blessed-sam-b97706217/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/theTechPriest_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
 <b>My GitHub Stats</b>
