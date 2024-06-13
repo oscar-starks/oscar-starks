@@ -13,7 +13,7 @@ I'm a backend developer, using Django restframework and Express JS for building 
 * ⚡  I love C++ and I have some firsthand practical knowledge about it. I'd like to practicalize its use for the optimization of web apps!
 
 <a href="https://www.github.com/oscar-starks" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/oscar-starks?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.twitter.com/oscar_stark__" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/oscar-starks?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.twitter.com/theTechPriest_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/theTechPriest_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
 /></a>
 
